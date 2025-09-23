@@ -13,3 +13,6 @@ resources/windows_pre_downloads/
 blackducksca.json
 .bridge/
 .codesight/
+components.json
+vuln-boms.json
+help.markdown.md
